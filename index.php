@@ -203,7 +203,7 @@ foreach ($eventos as $evento) {
                         <div class="small-box bg-danger">
                             <div class="inner">
                                 <h3><?= $diasDesdeUltimoEvento ?> <sup style="font-size: 18px">dias</sup></h3>
-                                <p>Dias desde o último evento</p>
+                                <p>Desde o último evento</p>
                             </div>
                             <div class="icon"><i class="fas fa-hourglass"></i></div>
                         </div>
